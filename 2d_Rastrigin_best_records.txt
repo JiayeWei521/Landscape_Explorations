@@ -1,0 +1,57 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Best records results for the exploration on 2-dim Rastrigin function, 
+starting point = (3, 3), step size = 0.01, sigma = 9, maximum number of iterations = 1000000: 
+
+At iteration 22,
+we get a better point [1.2925136408075235,-0.09701201564678338],
+where the function value is 16.120471129533826. 
+
+At iteration 24,
+we get a better point [0.042078882811816265,0.20678219852968094],
+where the function value is 7.709801306907027. 
+
+At iteration 37,
+we get a better point [-2.081272407054832,0.9562107910279429],
+where the function value is 6.8978784841996035. 
+
+At iteration 129,
+we get a better point [0.9038520839730443,2.020369559889602],
+where the function value is 6.750581418284812. 
+
+At iteration 157,
+we get a better point [0.9330924344958018,-1.0574754762758414],
+where the function value is 3.504643318612988. 
+
+At iteration 820,
+we get a better point [0.036988725659514055,1.0120721000964776],
+where the function value is 1.3232630759604191. 
+
+At iteration 1388,
+we get a better point [-0.041019099280533045,-0.015652726893498087],
+where the function value is 0.38054214534695774. 
+
+At iteration 11591,
+we get a better point [0.036254811120411234,-0.0013040929160236248],
+where the function value is 0.25998619919018395. 
+
+At iteration 53064,
+we get a better point [0.006103619648949177,-0.021928875395955005],
+where the function value is 0.10264186981064505. 
+
+At iteration 201179,
+we get a better point [-0.017838064610431914,-0.006572098178872998],
+where the function value is 0.07162978854015911. 
+
+At iteration 276782,
+we get a better point [0.0002303936090288783,0.0062884398057015956],
+where the function value is 0.00785482644691271. 
+
+At iteration 571093,
+we get a better point [-0.0029346818679258924,0.0016794440522956422],
+where the function value is 0.0022681415844534314. 
+
+At iteration 705371,
+we get a better point [-0.001340792243414074,-0.002850116799629876],
+where the function value is 0.001968181056017926. 
+
